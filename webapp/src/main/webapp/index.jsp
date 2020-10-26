@@ -5,3 +5,4 @@
 <h2> Version 3 deployed on ansible using jenkins job  </h2>
 <h2> Version 4 deployed automatically on changes  </h2>
 <h2> Version 5 deployed automatically on changes  </h2>
+<h2> Version 6 deployed automatically on changes  </h2>
